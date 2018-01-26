@@ -1,0 +1,22 @@
+{
+  "name": "edl2018",
+  "version": "1.0.0",
+  "description": "List of students",
+  "main": "index.js",
+  "scripts": {
+    "test": "sspk validate students.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-henry/edl2018.git"
+  },
+  "author": "Eric HENRY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-henry/edl2018/issues"
+  },
+  "homepage": "https://github.com/e-henry/edl2018#readme",
+  "dependencies": {
+    "sspk": "git+https://github.com/e-henry/sspk.git#master"
+  }
+}
